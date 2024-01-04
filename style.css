@@ -1,11 +1,12 @@
 body{
-    background-color: #9a9595;
+    background-color: #c7cad0;
 }
 h1{
-    color: rgb(255, 0, 0);
-    font-size: 25px;
-    font-family: 'Segoe UI';
-    background-color: black;
+    color: #bc6cd9;
+}
+h2{
+    color: #bc6cd9;
+    
 }
 p{
     font-size: large;
@@ -19,7 +20,18 @@ img{
 }
 .enviar{
     border-radius: 5px;
-    background-color: rgb(0, 0, 555);
+    background-color: #A5FFB1;
+    color: #272625;
+}
+.registrar{
+    border-radius: 10px;
+    background-color: #A5FFB1;
+    color: #272625; 
+}
+.iniciar{
+    border-radius: 10px;
+    background-color: #A5FFB1;
+    color: #272625;
 }
 ol li{
     font-size: 30px;
@@ -34,8 +46,6 @@ ul li{
 
 }
 .etiqueta{
-    font-size: 20px;
-    background-color: rgb(135, 222, 218);
+    background-color: #f478c7;
     color: black;
-
 }
