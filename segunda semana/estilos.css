@@ -62,15 +62,16 @@ body{
     width: 80px;
     height: 80px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+   
 }
 .card-icon figure img{
-    width: 50px;
+    width: 150px;
     height: 50px;
+    align-items: center;
 }
 .icon-description p{
     color: var(--white);
     font-size: var(--sm);
     margin: 0;
+    text-align: center;
 }
